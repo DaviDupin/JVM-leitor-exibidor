@@ -1,0 +1,238 @@
+Magic number: 0xcafebabe
+Minor version: 0
+Major version: 52
+Constant pool count: 53
+Constant [1]: 
+	tag: 10
+	class_index: 13 <java/lang/Object>
+	name_and_type_index: 29 <<init> : ()V>
+Constant [2]: 
+	tag: 4
+	bytes: 40400000
+	Float: 3.000000
+Constant [3]: 
+	tag: 4
+	bytes: c0a00000
+	Float: -5.000000
+Constant [4]: 
+	tag: 3
+	bytes: 620e86
+	Integer: 6426246
+Constant [5]: 
+	tag: 3
+	bytes: fff963a6
+	Integer: -433242
+Constant [6]: 
+	tag: 3
+	bytes: 186a0
+	Integer: 100000
+Constant [7]: 
+	tag: 9
+	class_index: 30 <java/lang/System>
+	name_and_type_index: 31 <out : Ljava/io/PrintStream;>
+Constant [8]: 
+	tag: 10
+	class_index: 32 <java/io/PrintStream>
+	name_and_type_index: 33 <println : (I)V>
+Constant [9]: 
+	tag: 10
+	class_index: 32 <java/io/PrintStream>
+	name_and_type_index: 34 <println : ()V>
+Constant [10]: 
+	tag: 10
+	class_index: 32 <java/io/PrintStream>
+	name_and_type_index: 35 <println : (F)V>
+Constant [11]: 
+	tag: 10
+	class_index: 32 <java/io/PrintStream>
+	name_and_type_index: 36 <println : (C)V>
+Constant [12]: 
+	tag: 7
+	name_index: 37 <vetor_8>
+Constant [13]: 
+	tag: 7
+	name_index: 38 <java/lang/Object>
+Constant [14]: 
+	tag: 1
+	length: 6
+	bytes: <init>
+Constant [15]: 
+	tag: 1
+	length: 3
+	bytes: ()V
+Constant [16]: 
+	tag: 1
+	length: 4
+	bytes: Code
+Constant [17]: 
+	tag: 1
+	length: 15
+	bytes: LineNumberTable
+Constant [18]: 
+	tag: 1
+	length: 4
+	bytes: main
+Constant [19]: 
+	tag: 1
+	length: 22
+	bytes: ([Ljava/lang/String;)V
+Constant [20]: 
+	tag: 1
+	length: 13
+	bytes: StackMapTable
+Constant [21]: 
+	tag: 7
+	name_index: 39 <[Ljava/lang/String;>
+Constant [22]: 
+	tag: 7
+	name_index: 40 <[I>
+Constant [23]: 
+	tag: 7
+	name_index: 41 <[F>
+Constant [24]: 
+	tag: 7
+	name_index: 42 <[B>
+Constant [25]: 
+	tag: 7
+	name_index: 43 <[C>
+Constant [26]: 
+	tag: 7
+	name_index: 44 <[S>
+Constant [27]: 
+	tag: 1
+	length: 10
+	bytes: SourceFile
+Constant [28]: 
+	tag: 1
+	length: 12
+	bytes: vetor_8.java
+Constant [29]: 
+	tag: 12
+	name_index: 14 <<init>>
+	descriptor_index: 15 <()V>
+Constant [30]: 
+	tag: 7
+	name_index: 45 <java/lang/System>
+Constant [31]: 
+	tag: 12
+	name_index: 46 <out>
+	descriptor_index: 47 <Ljava/io/PrintStream;>
+Constant [32]: 
+	tag: 7
+	name_index: 48 <java/io/PrintStream>
+Constant [33]: 
+	tag: 12
+	name_index: 49 <println>
+	descriptor_index: 50 <(I)V>
+Constant [34]: 
+	tag: 12
+	name_index: 49 <println>
+	descriptor_index: 15 <()V>
+Constant [35]: 
+	tag: 12
+	name_index: 49 <println>
+	descriptor_index: 51 <(F)V>
+Constant [36]: 
+	tag: 12
+	name_index: 49 <println>
+	descriptor_index: 52 <(C)V>
+Constant [37]: 
+	tag: 1
+	length: 7
+	bytes: vetor_8
+Constant [38]: 
+	tag: 1
+	length: 16
+	bytes: java/lang/Object
+Constant [39]: 
+	tag: 1
+	length: 19
+	bytes: [Ljava/lang/String;
+Constant [40]: 
+	tag: 1
+	length: 2
+	bytes: [I
+Constant [41]: 
+	tag: 1
+	length: 2
+	bytes: [F
+Constant [42]: 
+	tag: 1
+	length: 2
+	bytes: [B
+Constant [43]: 
+	tag: 1
+	length: 2
+	bytes: [C
+Constant [44]: 
+	tag: 1
+	length: 2
+	bytes: [S
+Constant [45]: 
+	tag: 1
+	length: 16
+	bytes: java/lang/System
+Constant [46]: 
+	tag: 1
+	length: 3
+	bytes: out
+Constant [47]: 
+	tag: 1
+	length: 21
+	bytes: Ljava/io/PrintStream;
+Constant [48]: 
+	tag: 1
+	length: 19
+	bytes: java/io/PrintStream
+Constant [49]: 
+	tag: 1
+	length: 7
+	bytes: println
+Constant [50]: 
+	tag: 1
+	length: 4
+	bytes: (I)V
+Constant [51]: 
+	tag: 1
+	length: 4
+	bytes: (F)V
+Constant [52]: 
+	tag: 1
+	length: 4
+	bytes: (C)V
+Access flags: 0x20
+This class: 12
+Super class: 13
+Interfaces count: 0
+Fields count: 0
+Methods count: 2
+Method [0]:
+	access_flags: 0x0
+	name_index: 14
+	descriptor_index: 15
+	attributes_count: 1
+	Attribute [0]:
+		attribute_name_index: 16
+		attribute_length: 29
+		max_stack: 1
+		max_locals: 1
+		code_length: 5
+		code: 
+			0 aload_0 
+			1 invokespecial #1 <java/lang/Object.<init>>
+			4 return 
+		exception_table_length: 0
+		attributes_count: 1
+		Attribute [0]:
+			attribute_name_index: 17
+			attribute_length: 6
+			line_number_table_length: 1
+			Line number table [0]:
+				start_pc: 0
+				line_number: 0
+Method [1]:
+	access_flags: 0x0
+	name_index: 0
+	descriptor_index: 0
+	attributes_count: 0
+Attribute count: 0
